@@ -54,7 +54,7 @@
 
 ## Connect with me:
 <div align="center">
-    <a target="_blank" href="mailto:secrethotchanger@outlook.com"><img src="https://img.shields.io/badge/-secrethotchanger@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:dreamhigh890316@gmail.com"><img src="https://img.shields.io/badge/-dreamhigh890316@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <!-- <a href="https://leetcode.com/u/rahasiasutarto/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
         <a href="https://medium.com/@rahasiasutarto" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a> -->
